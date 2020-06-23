@@ -1,0 +1,1 @@
+Random test to check git remote add.
