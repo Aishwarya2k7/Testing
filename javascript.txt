@@ -1,2 +1,3 @@
 Hello there just checking if you could run something here!
 Off all the functions, splice was very interesting!.
+Also forEach is so FUNNNNNN!
