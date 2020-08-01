@@ -1,2 +1,3 @@
 Javascript is magnificent.
 Off all the functions, splice was very interesting!.
+editedddd
